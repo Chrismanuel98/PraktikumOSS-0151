@@ -1,1 +1,3 @@
 Chrismanuel Cahya Maramis : G.231.20.0151 : Semarang
+Mata Kuliah : Open Source
+Catatan : Praktikum dengan menggunakan GIT
